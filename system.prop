@@ -263,3 +263,6 @@ sys.thermal.data.path=/data/vendor/thermal/
 # network location provider is not functional
 ro.location.osnlp.package=com.google.android.gms
 ro.location.osnlp.region.package=
+
+# Syberia Version
+ro.syberia.version=2.9
